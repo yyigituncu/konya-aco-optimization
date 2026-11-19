@@ -1,1 +1,6 @@
-
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.26
+pydeck>=0.8
+googlemaps>=4.10
+python-dotenv>=1.0
